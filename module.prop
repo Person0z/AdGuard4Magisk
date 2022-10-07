@@ -1,0 +1,6 @@
+id=magisk-adguard-dns
+name=Magisk Adguard DNS
+version=v1
+versionCode=1
+author=Person0z
+description=Use Adguard's DNS servers instead of the provided by the ISP
